@@ -14,3 +14,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 5. <a href="./128.Longest-Consecutive-Sequence.cpp">Longest Consecutive Sequence</a>
 6. <a href="./509.Fibonacci-Number.cpp">Fibonacci Number</a>
 7. <a href="./97.Interleaving-String.cpp">Interleaving String</a>
+8. <a href="./1473.Paint-House-III.cpp">Paint House III</a>
