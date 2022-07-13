@@ -18,3 +18,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 9. <a href="./1696.Jump-Game-VI.cpp">Jump Game VI</a>
 10. <a href="./746.Min-Cost-Climbing-Stairs.cpp">Min Cost Climbing Stairs</a>
 11. <a href="./199.Binary-Tree-Right-Side-View.cpp">Binary Tree Right Side View</a>
+12. <a href="./473.Matchsticks-to-Square.cpp">Matchsticks to Square</a>
