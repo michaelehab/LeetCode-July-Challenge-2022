@@ -21,3 +21,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 12. <a href="./473.Matchsticks-to-Square.cpp">Matchsticks to Square</a>
 13. <a href="./102.Binary-Tree-Level-Order-Traversal.cpp">Binary Tree Level Order Traversal</a>
 14. <a href="./105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.cpp">Construct Binary Tree from Preorder and Inorder Traversal</a>
+15. <a href="./695.Max-Area-of-Island.cpp">Max Area of Island</a>
