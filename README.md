@@ -23,3 +23,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 14. <a href="./105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.cpp">Construct Binary Tree from Preorder and Inorder Traversal</a>
 15. <a href="./695.Max-Area-of-Island.cpp">Max Area of Island</a>
 16. <a href="./576.Out-of-Boundary-Paths.cpp">Out of Boundary Paths</a>
+17. <a href="./629.K-Inverse-Pairs-Array.cpp">K Inverse Pairs Array</a>
