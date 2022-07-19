@@ -24,3 +24,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 15. <a href="./695.Max-Area-of-Island.cpp">Max Area of Island</a>
 16. <a href="./576.Out-of-Boundary-Paths.cpp">Out of Boundary Paths</a>
 17. <a href="./629.K-Inverse-Pairs-Array.cpp">K Inverse Pairs Array</a>
+18. <a href="./1074.Number-of-Submatrices-That-Sum-to-Target.cpp">Number of Submatrices That Sum to Target</a>
