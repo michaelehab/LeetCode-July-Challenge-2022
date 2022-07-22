@@ -28,3 +28,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 19. <a href="./118.Pascal's-Triangle.cpp">Pascal's Triangle</a>
 20. <a href="./792.Number-of-Matching-Subsequences.cpp">Number of Matching Subsequences</a>
 21. <a href="./92.Reverse-Linked-List-II.cpp">Reverse Linked List II</a>
+22. <a href="./86.Partition-List.cpp">Partition List</a>
