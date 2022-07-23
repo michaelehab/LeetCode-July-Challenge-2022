@@ -29,3 +29,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 20. <a href="./792.Number-of-Matching-Subsequences.cpp">Number of Matching Subsequences</a>
 21. <a href="./92.Reverse-Linked-List-II.cpp">Reverse Linked List II</a>
 22. <a href="./86.Partition-List.cpp">Partition List</a>
+23. <a href="./315.Count-of-Smaller-Numbers-After-Self.cpp">Count of Smaller Numbers After Self</a>
