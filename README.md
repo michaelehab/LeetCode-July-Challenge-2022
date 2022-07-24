@@ -30,3 +30,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 21. <a href="./92.Reverse-Linked-List-II.cpp">Reverse Linked List II</a>
 22. <a href="./86.Partition-List.cpp">Partition List</a>
 23. <a href="./315.Count-of-Smaller-Numbers-After-Self.cpp">Count of Smaller Numbers After Self</a>
+24. <a href="./240.Search-a-2D-Matrix-II.cpp">Search a 2D Matrix II</a>
