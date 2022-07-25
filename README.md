@@ -31,3 +31,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 22. <a href="./86.Partition-List.cpp">Partition List</a>
 23. <a href="./315.Count-of-Smaller-Numbers-After-Self.cpp">Count of Smaller Numbers After Self</a>
 24. <a href="./240.Search-a-2D-Matrix-II.cpp">Search a 2D Matrix II</a>
+25. <a href="./34.Find-First-and-Last-Position-of-Element-in-Sorted-Array.cpp">Find First and Last Position of Element in Sorted Array</a>
