@@ -33,3 +33,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 24. <a href="./240.Search-a-2D-Matrix-II.cpp">Search a 2D Matrix II</a>
 25. <a href="./34.Find-First-and-Last-Position-of-Element-in-Sorted-Array.cpp">Find First and Last Position of Element in Sorted Array</a>
 26. <a href="./236.Lowest-Common-Ancestor-of-a-Binary-Tree.cpp">Lowest Common Ancestor of a Binary Tree</a>
+27. <a href="./114.Flatten-Binary-Tree-to-Linked-List.cpp">Flatten Binary Tree to Linked List</a>
