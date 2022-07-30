@@ -36,3 +36,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 27. <a href="./114.Flatten-Binary-Tree-to-Linked-List.cpp">Flatten Binary Tree to Linked List</a>
 28. <a href="./242.Valid-Anagram.cpp">Valid Anagram</a>
 29. <a href="./890.Find-and-Replace-Pattern.cpp">Find and Replace Pattern</a>
+30. <a href="./916.Word-Subsets.cpp">Word Subsets</a>
