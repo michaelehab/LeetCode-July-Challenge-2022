@@ -37,3 +37,4 @@ This Repository contains my solutions to July LeetCoding Challenge 2022 problems
 28. <a href="./242.Valid-Anagram.cpp">Valid Anagram</a>
 29. <a href="./890.Find-and-Replace-Pattern.cpp">Find and Replace Pattern</a>
 30. <a href="./916.Word-Subsets.cpp">Word Subsets</a>
+31. <a href="./307.Range-Sum-Query-Mutable.cpp">Range Sum Query - Mutable</a>
